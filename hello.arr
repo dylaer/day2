@@ -5,3 +5,4 @@ use context dcic2024
 3 * (4 + 5)
 (3 + 4) * 5
 num-max(-3.14, PI)
+2 + 2
